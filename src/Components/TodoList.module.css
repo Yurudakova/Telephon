@@ -1,0 +1,11 @@
+.list{
+display: flex;
+max-width: 300px;
+flex-wrap: wrap;
+border: 13px solid #000;
+padding: 16px;
+border-radius: 50px;
+justify-content: center;
+background-image: url('../obloko.jpg');
+
+}
